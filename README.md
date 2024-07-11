@@ -7,7 +7,7 @@ In this directory, the approach used to sequencing processing and differentially
 
 Commands are detailed in the bash-script:
 
-workflow.sh
+mapping.sh
 
 
 #This script contains the flowing processes:
