@@ -1,4 +1,4 @@
-#Overview
+# RNA-seq analysis
 
 The approach used to sequencing processing and differentially expressed genes analysis
 
