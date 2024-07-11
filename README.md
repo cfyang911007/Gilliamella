@@ -1,6 +1,6 @@
 #Overview
 
-In this directory, the approach used to sequencing processing and differentially expressed genes analysis
+The approach used to sequencing processing and differentially expressed genes analysis
 
 
 #01.rawdata_to_read_summarization
